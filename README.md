@@ -1,0 +1,1 @@
+This is a game that is planned to be an interplanetary survival sandbox platfomer game with square planets.
